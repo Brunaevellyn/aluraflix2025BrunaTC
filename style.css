@@ -10,7 +10,10 @@ h1 {
 
 p {
   font-size: 20px;
-   font-family: cursive;
+  img {
+  height: 200px;
+}
+  font-family: cursive;
 }
 section{
 background:rgb(184,156,213); 
@@ -28,6 +31,4 @@ header {
   font-size: 32px;
   color: rgb(42, 122, 228);
 }
- img {
-  height: 200px;
-}
+
